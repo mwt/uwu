@@ -25,5 +25,5 @@ jobs:
       with:
         file: uwu.wls
       env:
-        WOLFRAM_ID: ${{ secrets.WolframID }}
-        WOLFRAM_PASS: ${{ secrets.WolframPW }}
+        WOLFRAM_ID: ${{ secrets.WOLFRAMID }}
+        WOLFRAM_PASS: ${{ secrets.WOLFRAMPW }}
